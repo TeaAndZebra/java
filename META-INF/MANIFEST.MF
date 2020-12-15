@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: mysql-connector-java-8.0.16.jar netty-all-5.0.0.Alpha1.jar
+  commons-collections-3.2.2.jar fastjson-1.2.49.jar
+Main-Class: tcp.TcpGetInfo
+
